@@ -1,0 +1,21 @@
+.authentication{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149009911.jpg?t=st=1652785291~exp=1652785891~hmac=6c388655fb6c0371c872c350d9d768ac597361fecbf892f9ef7d826dca4447ce&w=740");
+    background-size:  100% 100%;
+}
+.authentication .ant-row
+{
+    width:100%;
+    justify-content: center !important;
+   
+}
+.authentication form{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.logo h3
+{
+    color: aqua
+}
